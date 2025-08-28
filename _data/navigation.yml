@@ -1,7 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: mailto:sharan.bediga@sru.edu.in

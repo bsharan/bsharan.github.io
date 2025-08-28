@@ -1,0 +1,11 @@
+title: Cloud Data Efficiency Solutions
+description: A PhD-driven startup at SR University, Warangal, optimizing energy efficiency for cloud data centers using AI/ML.
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+author:
+  name: Sharan Bediga
+  url: https://www.linkedin.com/in/sharanb1/
+email: sharan.bediga@sru.edu.in
+logo: /assets/images/logo.png # Optional: Add a logo later
